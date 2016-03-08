@@ -12,4 +12,10 @@ All members of the UBC Ecohydology Group are welcome and encouraged to contribut
 * CODE OF CONDUCT
 * R AND PACKAGES
 
-##How to Contribute
+##How to best contribute
+
+* You are not obliged to contribute
+* You are encouraged to follow through your contributions to completion
+* Comments inside code are essential to aid undestanding, reproduction for different scenarios, troublshooting when problems arise and can be done by anyone
+* You need to include what file you changed, how you changed and why in your commit comments
+
