@@ -1,3 +1,15 @@
 #Contributing
 
-All members of the UBC Ecohydology Group are welcome to contribute to this repository. Please add your name here and the time frame of your presence in the group
+All members of the UBC Ecohydology Group are welcome and encouraged to contribute unashamedly to this repository. Please add your name to the list. We would like to thank you for your contributions and encourage you to keep up the good work.
+
+##Members
+* Iain
+* Silja
+* Laura
+
+##Table of Contents
+* READ.ME
+* CODE OF CONDUCT
+* R AND PACKAGES
+
+##How to Contribute
